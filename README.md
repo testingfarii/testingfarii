@@ -101,7 +101,9 @@ Now I don't know how to quit !
   <img src="https://github-readme-stats.vercel.app/api?username=mfarae&show_icons=true&theme=radical" />
 </a>
 </p>
-<br></br>    
+<br></br>
+
+[![Farae's github activity graph](https://activity-graph.herokuapp.com/graph?username=mfarae&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br></br>
 
