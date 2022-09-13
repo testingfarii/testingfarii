@@ -1,10 +1,3 @@
-<p align="center" >
-
- <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Farae 👋 I'm a 🚀 Comp. Engg Student 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
-
-<br/>
-
 <h1 align="center" > <b> Whoami ?  </b> </h1>
 
 <h4 align="center"> I’m Farae <I> aka </I> mfarae :sunglasses:  :ghost: </h4>
@@ -34,7 +27,7 @@ Now I don't know how to quit !
 <br/>
 
 #### 🌟 Visitors over time
-![](https://komarev.com/ghpvc/?username=greyhatguy007&label=PROFILE+VIEWS&style=plastic)
+![](https://komarev.com/ghpvc/?username=mfarae&label=PROFILE+VIEWS&style=plastic)
 
 <br/>
 
@@ -101,62 +94,20 @@ Now I don't know how to quit !
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyhatguy007&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarae&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
   <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=greyhatguy007&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfarae&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark"> </a>
 </p>
-<br></br>
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=greyhatguy007&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-[![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
-
-    
- <h3> Leetcode Stats  </h3>
-    
- ![Leetcode Stats](https://leetcard.jacoblin.cool/greyhatguy007?theme=dark,unicorn)
-    
+<br></br>    
 
 <br></br>
 
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greyhatguy007&theme=dark)](https://git.io/streak-stats)
-
-<br></br>
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-<br></br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400?style=centerme)
-<br></br>
-
-
-<a href="https://instagram.com/rit_08_/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
--->
 <hr>
 
 <br></br>
 
-<a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
-
-
-
-<a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 #### mail: muhammad.farae@gmail.com
-
-## Reach Me ☝️☝️☝️
-
-
-![](https://hit.yhype.me/github/profile?user_id=77543865)
