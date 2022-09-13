@@ -42,7 +42,7 @@ Now I don't know how to quit !
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
+![PLSQL](https://camo.githubusercontent.com/396044d9a31325230d473c5e6c62f29e06106a5cdd75e83bfa4c6a4427c98d47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504c53514c2d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d626c61636b)
 <br/>
 
 <b> Development Environment, Terminals and Operating Systems Used </b>
@@ -69,6 +69,9 @@ Now I don't know how to quit !
 <b> Hardware Related Tools and Kits (Learning Currently and Known) </b>
 
 ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27.svg?style=for-the-badge&logo=Xilinx&logoColor=white)
+<br/>
+
+
 <b> Machine Learning stuffs known & Learning </b>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
